@@ -74,8 +74,11 @@ Json
   "latency": 0.0012,
   "avg_latency": 0.0012
 }
-When average latency exceeds the threshold, drift is detected, and retraining is triggered automatically.
-Folder Structure
+Note: The LLM responses are simulated for demonstration purposes. This project demonstrates the serving, monitoring, and retraining workflow without using a full-scale LLM.
+
+When average latency exceeds the threshold, drift is detected and retraining is triggered automatically.
+
+Folder Structure:
 
 
 mini-llm-serving-pipeline/
