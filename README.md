@@ -43,5 +43,5 @@ This is designed to emulate modern GenAI infrastructure practices and is fully c
 1. Clone the repository:
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/raskavisel/mini-llm-serving-pipeline>
 cd mini-llm-serving-pipeline
