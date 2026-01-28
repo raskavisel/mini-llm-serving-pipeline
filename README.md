@@ -97,3 +97,5 @@ mini-llm-serving-pipeline/
 - Support multi-entity model storage
 - Implement token usage monitoring
 - Deploy on cloud infrastructure for production readiness
+
+## Author: Rasoolbi S
