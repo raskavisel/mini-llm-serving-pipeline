@@ -33,7 +33,7 @@ This is designed to emulate modern GenAI infrastructure practices and is fully c
 - **Python 3.13**
 - **FastAPI** – REST API serving the model
 - **Uvicorn** – ASGI server for running FastAPI
-- **MLflow** – Model experiment tracking (simulated in mobile setup)
+- **MLflow** – Model experiment tracking (simulated; full MLflow setup optional for desktop)
 - **Standard Python libraries** – random, time
 
 ---
