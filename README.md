@@ -1,4 +1,4 @@
-ji# Mini LLM Serving & Retraining Pipeline
+# Mini LLM Serving & Retraining Pipeline
 
 **End-to-end lightweight pipeline for serving, monitoring and retraining open-source LLMs.**
 
@@ -40,18 +40,18 @@ This is designed to emulate modern GenAI infrastructure practices and is fully c
 ## **Installation & Setup**
 
 ### **1. Clone the repository**
-```bash
+
 git clone <your-github-repo-url>
 cd mini-llm-serving-pipeline
 
 2. Install dependencies
 
-Bash
+
 pip install -r requirements.txt
 Note: On mobile (Pydroid), MLflow installation can be skipped due to Rust/build dependency limitations.
 3. Start the API server
 
-Bash
+
 python -m uvicorn app:app --reload
 4. Send a POST request to generate a response
 
